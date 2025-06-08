@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empresa.Endereco.Api", "JovemProgramador\Empresa.Endereco.Api.csproj", "{E5C128CB-F1F5-427A-A8C6-FD4B8CCDDFAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almah.Endereco.Api", "JovemProgramador\Almah.Endereco.Api.csproj", "{E5C128CB-F1F5-427A-A8C6-FD4B8CCDDFAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empresa.Endereco.Dominio", "Empresa.Endereco.Dominio\Empresa.Endereco.Dominio.csproj", "{37F287B8-2C34-4162-BB2D-9985FC7C45A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almah.Endereco.Dominio", "Empresa.Endereco.Dominio\Almah.Endereco.Dominio.csproj", "{37F287B8-2C34-4162-BB2D-9985FC7C45A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empresa.Endereco.Servico", "Empresa.Endereco.Servico\Empresa.Endereco.Servico.csproj", "{B6A65EE7-D22A-47AD-86B5-0CAADBC01294}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almah.Endereco.Servico", "Empresa.Endereco.Servico\Almah.Endereco.Servico.csproj", "{B6A65EE7-D22A-47AD-86B5-0CAADBC01294}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

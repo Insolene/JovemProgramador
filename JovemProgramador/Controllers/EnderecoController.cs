@@ -7,10 +7,10 @@ namespace Empresa.Endereco.Api.Controllers
     [Route("[controller]")]
     public class EnderecoController:ControllerBase
     {
-        [HttpGet(Name = "GetEndereco")]
+        [HttpGet(Name = "GetEnderecoPorCep")]
         public async Task<IActionResult> ObterEnderecos(string cep)
         {
-            var requisicao = await new ViaCepService().obterEnderencoPorCep(cep);
+            var requisicao = await new ViaCepService().ObterEnderencoPorCep(cep);
             return Ok(requisicao);  
         }
 

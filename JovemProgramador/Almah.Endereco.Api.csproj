@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Empresa.Endereco.Servico\Empresa.Endereco.Servico.csproj" />
+    <ProjectReference Include="..\Empresa.Endereco.Servico\Almah.Endereco.Servico.csproj" />
   </ItemGroup>
 
 </Project>
